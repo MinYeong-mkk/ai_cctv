@@ -52,11 +52,11 @@
 <div style="display: flex; justify-content: space-between;">
   <div style="margin-right: 10px;">
     <p>● 기존 모델 데이터</p>
-    <img src="images/beforeTrain.png" alt="기존 모델 데이터" style="width: 50%;">
+    <img src="images/beforeTrain.png" alt="기존 모델 데이터" style="width: 35%;">
   </div>
   <div style="margin-left: 10px;">
     <p>● 새로 추가한 데이터</p>
-    <img src="images/afterTrain.png" alt="새로 추가한 데이터" style="width: 50%;">
+    <img src="images/afterTrain.png" alt="새로 추가한 데이터" style="width: 35%;">
   </div>
 </div>
 
