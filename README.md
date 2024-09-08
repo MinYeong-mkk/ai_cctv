@@ -31,11 +31,11 @@
 <div style="display: flex; justify-content: space-between;">
   <div style="margin-right: 10px;">
     <p>● 기존 모델 데이터</p>
-    <img src="images/기존모델데이터.png" alt="기존 모델 데이터" style="width: 100%;">
+    <img src="images/기존모델데이터.png" alt="기존 모델 데이터" style="width: 50%;">
   </div>
   <div style="margin-left: 10px;">
     <p>● 새로 추가한 데이터</p>
-    <img src="images/새로추가한데이터.png" alt="새로 추가한 데이터" style="width: 100%;">
+    <img src="images/새로추가한데이터.png" alt="새로 추가한 데이터" style="width: 50%;">
   </div>
 </div>
 
@@ -43,27 +43,22 @@
 <br>
 
 레이블 처리
-
 ![alt text](images/label.png)
 
 
 <br>
 <br>
 
-<table>
-  <tr>
-    <td style="text-align: center;">
-      <p>● 기존 모델 데이터</p>
-      <img src="images/beforeTrain.png" alt="기존 모델 데이터" style="width: 300px;">
-    </td>
-    <td style="text-align: center;">
-      <p>● 새로 추가한 데이터</p>
-      <img src="images/afterTrain.png" alt="새로 추가한 데이터" style="width: 300px;">
-    </td>
-  </tr>
-</table>
-
-
+<div style="display: flex; justify-content: space-between;">
+  <div style="margin-right: 10px;">
+    <p>● 기존 모델 데이터</p>
+    <img src="images/beforeTrain.png" alt="기존 모델 데이터" style="width: 50%;">
+  </div>
+  <div style="margin-left: 10px;">
+    <p>● 새로 추가한 데이터</p>
+    <img src="images/afterTrain.png" alt="새로 추가한 데이터" style="width: 50%;">
+  </div>
+</div>
 
 
 
