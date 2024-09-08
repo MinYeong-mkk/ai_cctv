@@ -52,11 +52,11 @@
 <div style="display: flex; justify-content: space-between;">
   <div style="margin-right: 10px;">
     <p>● 기존 모델 데이터</p>
-    <img src="images/beforeTrain.png" alt="기존 모델 데이터" style="width: 100%;">
+    <img src="images/beforeTrain.png" alt="기존 모델 데이터" style="width: 50%;">
   </div>
   <div style="margin-left: 10px;">
     <p>● 새로 추가한 데이터</p>
-    <img src="images/afterTrain.png" alt="새로 추가한 데이터" style="width: 100%;">
+    <img src="images/afterTrain.png" alt="새로 추가한 데이터" style="width: 50%;">
   </div>
 </div>
 
@@ -76,16 +76,16 @@ ACCURACY 성별 – 0.8186 나이 – 0.0646
 ### 실제 화면
 
 <div style="text-align: center;">
-  <img src="images/시연1.gif" alt="시연 1" style="width: 50%;">
+  <img src="images/시연1.gif" alt="시연 1" style="width: 75%;">
   <p><em>모드 설정</em></p>
 </div>
 
 <div style="text-align: center;">
-  <img src="images/시연2.gif" alt="시연 2" style="width: 50%;">
+  <img src="images/시연2.gif" alt="시연 2" style="width: 75%;">
   <p><em>분석</em></p>
 </div>
 
 <div style="text-align: center;">
-  <img src="images/시연3.gif" alt="시연 3" style="width: 50%;">
+  <img src="images/시연3.gif" alt="시연 3" style="width: 75%;">
   <p><em>로그 확인</em></p>
 </div>
