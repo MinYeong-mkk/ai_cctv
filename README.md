@@ -54,11 +54,11 @@
   <tr>
     <td style="text-align: center;">
       <p>● 기존 모델 데이터</p>
-      <img src="images/beforeTrain.png" alt="기존 모델 데이터" style="width: 50%;">
+      <img src="images/beforeTrain.png" alt="기존 모델 데이터" style="width: 10%;">
     </td>
     <td style="text-align: center;">
       <p>● 새로 추가한 데이터</p>
-      <img src="images/afterTrain.png" alt="새로 추가한 데이터" style="width: 50%;">
+      <img src="images/afterTrain.png" alt="새로 추가한 데이터" style="width: 10%;">
     </td>
   </tr>
 </table>
